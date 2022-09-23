@@ -1,6 +1,6 @@
 # Reactjs Table Component
 
-![image](https://user-images.githubusercontent.com/90038064/191950977-f6abe3e9-db6c-4a20-aca3-5d0864cd015b.png)
+![image](https://user-images.githubusercontent.com/90038064/191951069-66c8b6d1-50c6-48cb-835f-02003f5f07b0.png)
 
 # Getting Started
 
