@@ -1,0 +1,24 @@
+.sign {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin-right: 0.5em;
+    border: 1px solid #20202038;
+}
+
+p {
+    font-size: 13px;
+    font-weight: 600;
+    margin: 0;
+}
+
+.button_buy {
+    border: 1px solid #d700cc;
+    background-color: white;
+    color: #d700cc
+}
+
+.button_buy:hover {
+    background-color: #d700cc;
+    color: white
+}
