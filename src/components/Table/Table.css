@@ -1,9 +1,9 @@
 .sign {
-    width: 12px;
-    height: 12px;
+    width: 10px;
+    height: 10px;
     border-radius: 50%;
-    margin-right: 0.5em;
-    border: 1px solid #20202038;
+    margin-right: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.22);
 }
 
 p {
@@ -21,4 +21,9 @@ p {
 .button_buy:hover {
     background-color: #d700cc;
     color: white
+}
+
+a {
+    text-decoration: none;
+    color: #000;
 }
